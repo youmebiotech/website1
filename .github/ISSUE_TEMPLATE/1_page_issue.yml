@@ -1,6 +1,6 @@
 name: Page issue
-description: Help improve the content or quality of a docs.flutter.dev page
-labels: [from.page-issue]
+description: Help improve the service or quality of Youme Tech
+labels: [Youmetech.issue]
 body:
   - type: markdown
     attributes:
@@ -20,7 +20,7 @@ body:
     id: page-url
     attributes:
       label: Page URL
-      placeholder: "Add the address of this page. An example would be https://docs.flutter.dev/guides"
+      placeholder: "Add the address of this page. An example would be https://www.Youmetech.tech"
     validations:
       required: true
   - type: input
